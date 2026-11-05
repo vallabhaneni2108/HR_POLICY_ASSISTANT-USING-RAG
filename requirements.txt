@@ -1,0 +1,25 @@
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM Providers
+langchain-groq
+langchain-google-genai
+
+# Environment Variables
+python-dotenv
+
+# Vector Store
+faiss-cpu
+
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Notebook (optional)
+jupyter
+ipykernel
